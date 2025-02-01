@@ -17,5 +17,9 @@
 }
 
 .restaurant-card-width {
-    width: 70% !important;
+    width: 1250px !important;
+}
+
+.letter-spacing {
+    letter-spacing: 10px;
 }
